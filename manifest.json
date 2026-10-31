@@ -1,6 +1,6 @@
 {
-  "name": "เช็คสถานที่คืนตู้เปล่า",
-  "short_name": "เช็คสถานที่คืนตู้เปล่า",
+  "name": "เช็คสถานที่คืนตู้เปล่า oocl",
+  "short_name": "เช็คสถานที่คืนตู้เปล่า oocl",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",
